@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../web/privy/hosts/views.py [privy]'" />
-    <option name="defaultScopeName" value="File '.../web/privy/hosts/views.py [privy]'" />
-    <option name="SEARCH_SCOPE" value="File '.../web/privy/hosts/views.py [privy]'" />
+    <option name="customScope" value="Datacubes" />
+    <option name="defaultScopeName" value="Datacubes" />
+    <option name="SEARCH_SCOPE" value="Datacubes" />
   </component>
 </application>
