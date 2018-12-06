@@ -5,6 +5,7 @@
       <mapping pattern="start" type="PLAIN_TEXT" />
       <mapping pattern="entrypoint" type="PLAIN_TEXT" />
       <mapping pattern="mit" type="PLAIN_TEXT" />
+      <mapping pattern=".web" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
