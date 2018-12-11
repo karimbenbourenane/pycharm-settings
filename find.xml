@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../web/privy/hosts/views.py [privy]'" />
+    <option name="defaultScopeName" value="File '.../web/privy/hosts/views.py [privy]'" />
+    <option name="SEARCH_SCOPE" value="File '.../web/privy/hosts/views.py [privy]'" />
   </component>
 </application>
