@@ -7,7 +7,7 @@
     </remote-server>
     <remote-server name="privy-dev.net.cmu.edu" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://privy-dev.net.cmu.edu:2376" />
+        <option name="apiUrl" value="tcp://privy-d01.net.cmu.edu:2376" />
       </configuration>
     </remote-server>
   </component>
