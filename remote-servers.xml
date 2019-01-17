@@ -1,8 +1,9 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
+    <remote-server name="localhost" type="docker">
       <configuration>
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
       </configuration>
     </remote-server>
     <remote-server name="privy-dev.net.cmu.edu" type="docker">
