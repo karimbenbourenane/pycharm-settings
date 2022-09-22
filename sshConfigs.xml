@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:60}" host="karims-mac-pro.local" id="b4c33c27-2f19-40d4-bbf4-82c257fb1cdf" port="22" nameFormat="DESCRIPTIVE" username="karim" useOpenSSHConfig="false" />
+    </configs>
+  </component>
+</application>
