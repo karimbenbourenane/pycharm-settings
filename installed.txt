@@ -1,0 +1,10 @@
+org.rust.lang
+com.jinsihou.react.snippets
+com.github.copilot
+com.intellij.ideolog
+name.kropp.intellij.makefile
+com.layoutmanager
+ru.adelf.idea.dotenv
+org.sonarlint.idea
+net.seesharpsoft.intellij.plugins.csv
+mobi.hsz.idea.gitignore

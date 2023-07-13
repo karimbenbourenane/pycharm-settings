@@ -1,0 +1,8 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="karims-mac-pro.local" id="98283fb8-7919-4415-9280-09ed75f44400" port="22" nameFormat="DESCRIPTIVE" username="karim" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="orchestrator-west.es.net" id="756b3c79-e05e-4460-a2c4-92a129f2b07a" port="22" nameFormat="DESCRIPTIVE" username="karim" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
